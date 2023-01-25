@@ -34,8 +34,8 @@
 ```html
 <!-- Overwrites -->
 <style>
-    s { text-decoration: none }                    /* Strike-Through */
-    em { font-style: normal }   /* Italic Emphasis */
+    s { text-decoration: none }   /* Strike-Through */
+    em { font-style: normal }     /* Italic Emphasis */
 </style>
 
 
