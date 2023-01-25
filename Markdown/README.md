@@ -32,14 +32,14 @@
 ## Overwriting Tags
 
 ```html
-<!-- Overwrites -->
+<!-- Removing Pre-Existing Styling -->
 <style>
     s { text-decoration: none }   /* Strike-Through */
     em { font-style: normal }     /* Italic Emphasis */
 </style>
 
 
-<!-- Colors -->
+<!-- Overwriting with Color Styling -->
 <style>
     s { color: Seagreen }
     em { color: Red }
