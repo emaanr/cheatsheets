@@ -16,6 +16,7 @@
 |---------------------------------------------------------------------:|:------:|
 | [Git](https://github.com/emaanr/cheatsheets/tree/main/Git)           | IP     |
 | [Markdown](https://github.com/emaanr/cheatsheets/tree/main/Markdown) | IP     |
+| [Other](https://github.com/emaanr/cheatsheets/tree/main/Other)       | IP     |
 | [Vim](https://github.com/emaanr/cheatsheets/tree/main/Vim)           | IP     |
 
 ## Key
