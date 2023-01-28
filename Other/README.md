@@ -4,6 +4,12 @@
 
 # Table of Contents
 
+- [Other](#other)
+- [Table of Contents](#table-of-contents)
+- [Google Chrome](#google-chrome)
+  - [Recreating a Window with Synced Devices](#recreating-a-window-with-synced-devices)
+    - [Steps](#steps)
+
 # Google Chrome
 
     Google Chrome Cheatsheet.
