@@ -12,7 +12,7 @@
 
 # Create New Repo via CLI
 
-    How to take any folder, turn it into a git repository, and push to GitHub repo of the same name.
+    How to take any folder, turn it into a git repository, and push to GitHub repo of the same name using Command Line Interface (CLI).
 
 ## Pre-Requisites
 
