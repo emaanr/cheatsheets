@@ -29,7 +29,7 @@
 4. `git branch -M main`
    - This branch renames the default branch name `master` to `main` via the use of the `-M` flag.
    - I prefer to use `main` over `master`, otherwise this step could be skipped entirely.
-5. `git remote add origin https://github.com/USERNAME/REPO-NAME`
+5. `git remote add origin https://github.com/USERNAME/REPO-NAME.git`
    - To tell the local git repository on your computer which remote repository to send changes to.
 6. `git push -u origin main`
    - The `-u` flag adds a tracking reference to the upstream server you are pushing to.
